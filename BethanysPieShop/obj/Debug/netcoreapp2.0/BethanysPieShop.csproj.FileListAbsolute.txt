@@ -1,0 +1,11 @@
+\\Mac\Home\Downloads\BethanysPieShop-master\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.deps.json
+\\Mac\Home\Downloads\BethanysPieShop-master\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.json
+\\Mac\Home\Downloads\BethanysPieShop-master\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.dev.json
+\\Mac\Home\Downloads\BethanysPieShop-master\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.dll
+\\Mac\Home\Downloads\BethanysPieShop-master\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.pdb
+\\Mac\Home\Downloads\BethanysPieShop-master\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\BethanysPieShop-master\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\BethanysPieShop-master\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\BethanysPieShop-master\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfo.cs
+\\Mac\Home\Downloads\BethanysPieShop-master\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.dll
+\\Mac\Home\Downloads\BethanysPieShop-master\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.pdb
